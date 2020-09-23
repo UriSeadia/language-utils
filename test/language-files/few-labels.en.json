@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "lng": "en",
+    "name": "English",
+    "date_modified": "Tue Apr 14 2020"
+  },
+  "translations": {
+    "key 1": "value 9",
+    "key 3": "value 7",
+    "key 5": "value 5",
+    "key 7": "value 3",
+    "key 9": "value 1"
+  }
+}

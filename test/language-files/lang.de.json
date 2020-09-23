@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "lng": "de",
+        "name": "Deutsche",
+        "version": "1.0.0"
+    },
+    "translations": {
+        "key 2": "Syslog listeners",
+        "key 6": "Syslog listeners",
+        "Suggested rule edited and added to policy rules successfully": "Suggested rule edited and added to policy rules successfully",
+        "Suggested rules added to policy rules successfully": "Suggested rules added to policy rules successfully",
+        "syslog listener": "syslog listener changed",
+        "Syslog listeners": "Syslog listeners",
+        "The element marked as Resolved": "The element marked as Resolved",
+        "The insight mark as Resolved": "The insight mark as Resolved",
+        "key 4": "Syslog listeners",
+        "The name already exists": "The name already exists",
+        "This new schedule overlap another profile that was already set up": "This new schedule overlap another profile that was already set up",
+        "Unauthorized to use this action.": "Unauthorized to use this action.",
+        "Update Cyber vulnerabilities configuration": "Update Cyber vulnerabilities configuration",
+        "User Defined Types": "User Defined Types",
+        "Wrong transport protocol name": "Wrong transport protocol name",
+        "You are trying to add {{numOfRules}} rules to policy rules. Maximum allowed for this action is {{maxNum}}": "You are trying to add {{numOfRules}} rules to policy rules. Maximum allowed for this action is {{maxNum}}",
+        "{{value}} hours": "{{value}} hours",
+        "{{value}} minutes": "{{value}} minutes",
+        "Host (client)": "Host (client)",
+        "Destination URL": "Destination URL",
+        "Update devices": "Update devices",
+        "key 3": "Syslog listeners",
+        "Successfully updated devices": "Successfully updated devices",
+        "Failed to update devices": "Failed to update devices",
+        "The following devices were not found in the system": "The following devices were not found in the system",
+        "The following devices have conflicting types": "The following devices have conflicting types",
+        "Are you sure you want to proceed?": "Are you sure you want to proceed?",
+        "key 1": "Syslog listeners",
+        "key 5": "Syslog listeners"
+    }
+}

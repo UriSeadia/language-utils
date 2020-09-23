@@ -1,0 +1,10 @@
+{
+  "metadata": {
+      "name": "Deutsche",
+      "version": "1.0.0",
+      "otherKey": "Notice that lng key does not exists"
+  },
+  "translations": {
+      "key 1": "value 1"
+  }
+}
